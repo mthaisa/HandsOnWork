@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Studio Mariáh Nails e Beauty</string>
+    <string name="cadastro_prod">Cadastro Produto</string>
+    <string name="cadastro_pess">Minha Conta</string>
+    <string name="cadastro_agen">Agendamento</string>
+    <string name="listar_produtos">Listar Produtos</string>
+    <string name="gerenciar_produtos">Gerenciar Produtos</string>
+    <string name="listar">Listar</string>
+    <string name="adicionar">Adicionar</string>
+</resources>

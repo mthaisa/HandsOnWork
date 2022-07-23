@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/cadastro_prod"
+        android:title="@string/cadastro_prod"/>
+    <item
+        android:id="@+id/cadastro_agen"
+        android:title="@string/cadastro_agen"/>
+    <item
+        android:id="@+id/cadastro_pess"
+        android:title="@string/cadastro_pess"/>
+
+</menu>
