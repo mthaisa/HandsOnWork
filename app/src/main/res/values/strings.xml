@@ -7,4 +7,9 @@
     <string name="gerenciar_produtos">Gerenciar Produtos</string>
     <string name="listar">Listar</string>
     <string name="adicionar">Adicionar</string>
+    <string name="editar">Editar</string>
+    <string name="nome">Nome</string>
+    <string name="valor">Valor</string>
+    <string name="tempo_execu_o">Tempo Execução</string>
+    <string name="salvar">Salvar</string>
 </resources>
